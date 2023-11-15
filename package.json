@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/EChapellon/360-image-slider-master/issues"
   },
-  "homepage": "https://github.com/EChapellon/360-image-slider-master#readme"
+  "homepage": "https://github.com/EChapellon/360-image-slider-master#readme",
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
 }
