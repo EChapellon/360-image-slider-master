@@ -1,0 +1,22 @@
+{
+  "name": "360-image-slider-master",
+  "version": "1.0.0",
+  "description": "360slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EChapellon/360-image-slider-master.git"
+  },
+  "keywords": [
+    "360slider"
+  ],
+  "author": "Erwann C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EChapellon/360-image-slider-master/issues"
+  },
+  "homepage": "https://github.com/EChapellon/360-image-slider-master#readme"
+}
